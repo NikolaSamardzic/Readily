@@ -3,8 +3,25 @@
 @import './variables';
 
 
+:root{
+    --primary-color: #333;
+    --background-color: #f5f5fa;
+    --text-color: #0c0c0f;
+    --header-background-color: #eee;
+
+    /*
+        DARK THEME
+        
+        --primary-color: #fff;
+        --background-color: #0c0c0f;
+        --text-color: #f5f5fa;
+        --header-background-color: #444;
+    */
+}
+
 a{
     text-decoration: none;
+    color: var(--text-color);
 }
 
 ul{
@@ -14,7 +31,7 @@ ul{
 body{
 
     height: auto;
-    background-color: $white;
+    background-color: var(--background-color);
 }
 
 .wrapper{
@@ -33,5 +50,5 @@ body{
 }
 
 h1{
-    color: red;
+    color: var(--text-color);
 }
