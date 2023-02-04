@@ -1,1 +1,48 @@
-/*# sourceMappingURL=style.css.map */
+*, ::before, ::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  padding: 0px;
+  margin: 0px;
+}
+
+:hover, :active {
+  box-sizing: border-box;
+}
+
+* {
+  font-family: "Roboto";
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  height: auto;
+  background-color: #E7E7E7;
+}
+
+.wrapper {
+  width: 1300px;
+  margin: 0 auto;
+}
+@media (max-width: 1400px) {
+  .wrapper {
+    width: 1100px;
+  }
+}
+@media (max-width: 1200px) {
+  .wrapper {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+h1 {
+  color: red;
+}/*# sourceMappingURL=style.css.map */
