@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name":"Mystery"
+    },
+    {
+        "id":"2",
+        "name":"Travel"
+    },
+    {
+        "id":"3",
+        "name":"Self-Improvement"
+    },
+    {
+        "id":"4",
+        "name":"Cooking"
+    },
+    {
+        "id":"5",
+        "name":"Technology and Science"
+    },
+    {
+        "id":"6",
+        "name":"Fiction"
+    },
+    {
+        "id":"7",
+        "name":"Children's Books"
+    },
+    {
+        "id":"8",
+        "name":"Romance"
+    },
+    {
+        "id":"9",
+        "name":"History"
+    },
+    {
+        "id":"10",
+        "name":"Business and Economics"
+    }
+]

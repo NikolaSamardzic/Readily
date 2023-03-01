@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Best Seller",
+        "className":"best-seller"
+    },
+    {
+        "id":2,
+        "name":"Award Winner",
+        "className":"award-winner"
+    },
+    {
+        "id":3,
+        "name":"Customer Favorites",
+        "className":"customer-favorites"
+    },
+    {
+        "id":4,
+        "name":"Top Rated",
+        "className":"top-rated"
+    },
+    {
+        "id":5,
+        "name":"New Release",
+        "className":"new-release"
+    }
+]

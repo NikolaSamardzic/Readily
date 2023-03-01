@@ -1,0 +1,63 @@
+[
+    {
+        "name":"Pottermore Publishing",
+        "id":1
+    },
+    {
+        "name":"Scribner",
+        "id":2
+    },
+    {
+        "name":"William Morrow Paperbacks",
+        "id":3
+    },
+    {
+        "name":"Grapevine",
+        "id":4
+    },
+    {
+        "name":"Mariner Books",
+        "id":5
+    },
+    {
+        "name":"Simon & Schuster",
+        "id":6
+    },
+    {
+        "name":"Knopf",
+        "id":7
+    },
+    {
+        "name":"Flatiron Books",
+        "id":8
+    },
+    {
+        "name":"O'Reilly Media",
+        "id":9
+    },
+    {
+        "name":"Random House Books for Young Readers",
+        "id":10
+    },
+    {
+        "name":"Viking Books for Young Readers",
+        "id":11
+    },
+    {
+        "name":"Random House",
+        "id":12
+    },
+    {
+        "name":"St. Martin's Press",
+        "id":13
+    },
+    {
+        "name":"Little, Brown and Company",
+        "id":14
+    },
+    {
+        "name":"W. W. Norton & Company",
+        "id":15
+    }
+    
+]
