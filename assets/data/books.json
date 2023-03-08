@@ -11,7 +11,7 @@
         },
         "pagesNumber":180,
         "releaseDate":"December 8, 2015",
-        "category":[6,7],
+        "category":[6,7,1],
         "idLabel":4,
         "image":"book1.jpg",
         "comments":[
@@ -44,7 +44,7 @@
         },
         "pagesNumber":301,
         "releaseDate":"December 8, 2015",
-        "category":[6,7],
+        "category":[6,7,1],
         "idLabel":4,
         "image":"book2.jpg",
         "comments":[
@@ -77,7 +77,7 @@
         },
         "pagesNumber":652,
         "releaseDate":"December 8, 2015",
-        "category":[6,7],
+        "category":[6,7,1],
         "idLabel":1,
         "image":"book3.jpg",
         "comments":[
@@ -110,7 +110,7 @@
         },
         "pagesNumber":412,
         "releaseDate":"December 8, 2015",
-        "category":[6,7],
+        "category":[6,7,1],
         "idLabel":1,
         "image":"book4.jpg",
         "comments":[
@@ -139,7 +139,7 @@
         },
         "pagesNumber":341,
         "releaseDate":"December 8, 2015",
-        "category":[1,2],
+        "category":[1,6,7],
         "idLabel":4,
         "image":"book5.jpg",
         "comments":[
@@ -267,7 +267,7 @@
         "publisherId":2,
         "reviews":{
             "stars":5,
-            "reviewsNumber":23120
+            "reviewsNumber":53120
         },
         "pagesNumber":560,
         "releaseDate":"September 10, 2019",
@@ -493,7 +493,10 @@
         "idAuthor":1,
         "price":15.89,
         "publisherId":3,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":288,
         "releaseDate":"January 18, 2011",
         "category":[1],
@@ -556,7 +559,10 @@
         "idAuthor":1,
         "price":14.95,
         "publisherId":3,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":306,
         "releaseDate":"January 1, 2022",
         "category":[1],
@@ -793,7 +799,7 @@
     },
     {
         "id":26,        
-        "name":"The Adventures Of sherlock Holmes",
+        "name":"The Adventures Of Sherlock Holmes",
         "idAuthor":2,
         "price":10.00,
         "publisherId":4,
@@ -1186,7 +1192,10 @@
         "idAuthor":3,
         "price":49.56,
         "publisherId":3,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":322,
         "releaseDate":"June 2, 2015",
         "category":[2],
@@ -1477,7 +1486,7 @@
     },
     {
         "id":49,        
-        "name":"Take Command: Find Your Inner Strength, Build Enduring Relationships, and Live the Life You Want",
+        "name":"Take Command",
         "idAuthor":5,
         "price":14.00,
         "publisherId":6,
@@ -1870,7 +1879,7 @@
     },
     {
         "id":62,        
-        "name":"Mastering the Art of French Cooking, Volume 2: A Cookbook",
+        "name":"Mastering the Art of French Cooking, Volume 2",
         "idAuthor":7,
         "price":45.32,
         "publisherId":7,
@@ -1965,7 +1974,7 @@
     },
     {
         "id":65,        
-        "name":"People Who Love to Eat Are Always the Best People: And Other Wisdom",
+        "name":"People Who Love to Eat Are Always the Best People",
         "idAuthor":7,
         "price":62.44,
         "publisherId":7,
@@ -2023,7 +2032,7 @@
     },
     {
         "id":67,        
-        "name":"Julia and Jacques Cooking at Home: A Cookbook",
+        "name":"Julia and Jacques Cooking at Home",
         "idAuthor":7,
         "price":43.21,
         "publisherId":7,
@@ -2056,7 +2065,10 @@
         "idAuthor":7,
         "price":32.21,
         "publisherId":7,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":336,
         "releaseDate":"April 4, 2006",
         "category":[2],
@@ -2078,7 +2090,7 @@
     },
     {
         "id":69,        
-        "name":"Baking with Julia: Savor the Joys of Baking with America's Best Bakers",
+        "name":"Baking with Julia",
         "idAuthor":7,
         "price":15.43,
         "publisherId":7,
@@ -2194,7 +2206,10 @@
         "idAuthor":8,
         "price":55.22,
         "publisherId":8,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":408,
         "releaseDate":"March 9, 2017",
         "category":[4],
@@ -2319,7 +2334,10 @@
         "idAuthor":9,
         "price":53.32,
         "publisherId":9,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":461,
         "releaseDate":"April 12, 2011",
         "category":[5],
@@ -2403,7 +2421,7 @@
     },
     {
         "id":80,        
-        "name":"Insanely Great: The Life and Times of Macintosh, the Computer that changed Everything",
+        "name":"Insanely Great",
         "idAuthor":9,
         "price":65.32,
         "publisherId":9,
@@ -2498,11 +2516,14 @@
     },
     {
         "id":83,        
-        "name":"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+        "name":"The Innovators",
         "idAuthor":10,
         "price":34.53,
         "publisherId":6,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":560,
         "releaseDate":"October 7, 2014",
         "category":[5],
@@ -2666,7 +2687,7 @@
         "publisherId":10,
         "reviews":{
             "stars":5,
-            "reviewsNumber":17121
+            "reviewsNumber":52121
         },
         "pagesNumber":67,
         "releaseDate":"September 24, 2013",
@@ -3239,7 +3260,10 @@
 
         "price":56.32,
         "publisherId":12,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":388,
         "releaseDate":"September 18, 2001",
         "category":[8],
@@ -3636,7 +3660,10 @@
         "idAuthor":18,
         "price":43.21,
         "publisherId":6,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":353,
         "releaseDate":"May 7, 2019",
         "category":[9],
@@ -3886,8 +3913,8 @@
         "price":34.53,
         "publisherId":6,
         "reviews":{
-            "stars":4,
-            "reviewsNumber":6631
+            "stars":5,
+            "reviewsNumber":16631
         },
         "pagesNumber":954,
         "releaseDate":"December 8, 2006",
@@ -4013,7 +4040,10 @@
         "idAuthor":17,
         "price":23.34,
         "publisherId":6,
-        "reviews":null,
+        "reviews":{
+            "stars":0,
+            "reviewsNumber":0
+        },
         "pagesNumber":194,
         "releaseDate":"February 5, 2013",
         "category":[9],
