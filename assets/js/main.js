@@ -149,7 +149,6 @@ window.onload = function(){
                         displayBooksImage(id);
 
                         let book = books.find(x=>x.id == id);
-                        let booksFromSameCategory = [];
 
                         let filteredBooks = books.filter(bookOne =>{
                             return bookOne.category.some(cat => book.category.some(sel=>{
@@ -169,13 +168,161 @@ window.onload = function(){
                         let author = authors.filter(x=>x.id == book.idAuthor);
                         console.log(author);
 
-                        sectionGenerator("authors-books","autors-books-articles-container",`Read more from ${author[0].name}`,bookArticleGenerator,authorsBooks,"books")
+                        sectionGenerator("authors-books","autors-books-articles-container",`Read more from ${author[0].name}`,bookArticleGenerator,authorsBooks,"books");
+
+                        displayReviews(book)
                     })
                 })
             })
         })
     }
 
+    if(url.includes("/shop.html")){
+        ajaxCallBack("categories.json",function(categories){
+            ajaxCallBack("sort.json")
+        })
+    }
+}
+
+function displayReviews(book){
+    ajaxCallBack("comments.json",function(comments){
+        let section = document.getElementById("review-section");
+
+        let reviewContainer = document.createElement("div");
+        reviewContainer.setAttribute("id","review-container");
+    
+        let heading = document.createElement("h2");
+        heading.innerText = `Reviews for ` + book.name;
+    
+        reviewContainer.appendChild(heading);
+    
+        let divStars = document.createElement("div");
+        divStars.setAttribute("id","review-stars-container");
+    
+        for(let i=0;i<5;i++){
+            if(book.reviews.stars > i){
+                divStars.innerHTML += `<i class="fa-solid fa-star"></i>`
+            }else{
+                divStars.innerHTML += `<i class="fa-regular fa-star"></i>`
+            }
+        }
+    
+        if(book.reviews.stars > 0){
+            divStars.innerHTML += ` <p>${book.reviews.stars}/5</p>`;
+        }
+    
+        reviewContainer.appendChild(divStars);
+    
+        let divReviewInfo = document.createElement("div");
+        divReviewInfo.setAttribute("id","review-info");
+
+        let commentsOfTheBook = comments.filter(x=>x.bookId == book.id);
+    
+        divReviewInfo.innerHTML = `<p>${book.reviews.reviewsNumber} ratings</p>
+                                    <p>${commentsOfTheBook.length} reviews</p>`;
+    
+        
+        reviewContainer.appendChild(divReviewInfo);
+        
+        section.appendChild(reviewContainer);
+        if(commentsOfTheBook.length){
+            displayComments(commentsOfTheBook)
+        }
+
+    })
+
+}
+
+function displayComments(comments){
+    let commentsContainer = document.createElement("div");
+    commentsContainer.setAttribute("id","comments-container-div")
+
+    for(let i=0;i<comments.length;i++){
+        let article = document.createElement("article");
+        article.classList.add("article-comment");
+
+        let userInfo = document.createElement("div");
+        userInfo.classList.add("comment-user-info-container");
+
+        let avatarAndName = document.createElement("div");
+        avatarAndName.classList.add("avatar-and-name-container");
+
+        let avatar = document.createElement("img");
+        avatar.classList.add("set-brightness");
+        avatar.alt = "avatar";
+        avatar.src = `../assets/images/comments/avatars/${comments[i].avatar}`
+        avatar.classList.add("comment-avatar");
+
+        let username = document.createElement("p");
+        username.innerText = comments[i].username;
+        username.classList.add("comment-username");
+
+        console.log(comments[i].username);
+        avatarAndName.appendChild(avatar);
+        avatarAndName.appendChild(username);
+
+        userInfo.appendChild(avatarAndName);
+
+        let divStars = document.createElement("div");
+        divStars.classList.add("comments-stars");
+
+        for(let j=0;j<5;j++){
+            if(comments[i].stars>j){
+                divStars.innerHTML +=`<i class="fa-solid fa-star"></i>`;
+            }else{
+                divStars.innerHTML += `<i class="fa-regular fa-star"></i>`;
+            }
+        }
+
+        divStars.innerHTML += `<p>${comments[i].stars}/5</p>`
+
+        userInfo.appendChild(divStars);
+        article.appendChild(userInfo);
+
+
+
+
+        // Article comment text and pictures
+
+        let commentTextAndPicturesContainer = document.createElement("div")
+        commentTextAndPicturesContainer.classList.add("text-and-pictures-container");
+
+        let commentText = document.createElement("div");
+        commentText.classList.add("comment-text");
+
+        for(let j=0; j<comments[i].text.length;j++){
+            let pTag = document.createElement("p");
+            pTag.classList.add("comment-text-row");
+            
+            pTag.innerText = comments[i].text[j];
+
+            commentText.appendChild(pTag);
+        }
+
+        let commentPictures = document.createElement("div");
+        commentPictures.classList.add("comment-pictures-container");
+
+        for(let j=0;j<comments[i].pictures.length;j++){
+            let imgTag = document.createElement("img");
+            imgTag.classList.add("set-brightness")
+            imgTag.classList.add("comment-picture");
+
+            imgTag.alt = "user uploaded picture";
+            imgTag.src = `../assets/images/comments/pictures/${comments[i].pictures[j]}`
+
+            commentPictures.appendChild(imgTag);
+        }
+
+        commentTextAndPicturesContainer.appendChild(commentText);
+        commentTextAndPicturesContainer.appendChild(commentPictures);
+
+        article.appendChild(commentTextAndPicturesContainer);
+
+        commentsContainer.appendChild(article);
+    }
+
+    let section = document.getElementById("review-section");
+    section.appendChild(commentsContainer);
 }
 
 function displayBooksImage(id){
@@ -195,6 +342,7 @@ function displayBooksImage(id){
 
 
     let imgTag = document.createElement("img");
+    imgTag.classList.add("set-brightness")
     imgTag.src = `../assets/images/books/book${id}.jpg`;
     imgTag.alt = `${book.name}`;
 
@@ -259,7 +407,7 @@ function displayBooksTextInfo(id){
     if(book.reviews.reviewsNumber > 0){
         starsDiv.innerHTML += `<p>${book.reviews.stars}/5 (<span class="text-bold">${book.reviews.reviewsNumber} ratings</span>)</p>`
     }else{
-        starsDiv.innerHTML += `no ratings`;
+        starsDiv.innerHTML += `<p>no ratings</p>`;
     }
 
     section.appendChild(starsDiv);
@@ -276,15 +424,11 @@ function displayBooksTextInfo(id){
         bookCategories.push(category);
     }
 
-    let conDiv = document.createElement("div");
+    let conDiv = document.createElement("section");
     conDiv.setAttribute("id","related-categories-container")
     conDiv.classList.add("section-articles");
     section.appendChild(conDiv);
 
-    // let relatedCategoriesContainer = document.createElement("div");
-    // relatedCategoriesContainer.setAttribute("id","related-categories-container-inner");
-    // relatedCategoriesContainer.classList.add("section-articles")
-    // conDiv.appendChild(relatedCategoriesContainer);
 
     sectionGenerator("related-categories-container","book-related-categories-section","Related Categories",categoryArticleGenerator,bookCategories,"category");
 
@@ -594,6 +738,7 @@ function bookArticleGenerator(id,label,image){
 
     // Creating img and setting its properties
     let bookImg = document.createElement("img");
+    bookImg.setAttribute("data-id",`${id}`);
     bookImg.classList.add("set-brightness");
 
     if(image){

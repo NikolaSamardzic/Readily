@@ -14,9 +14,7 @@
         "category":[6,7,1],
         "idLabel":4,
         "image":"book1.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"'Welcome to the Knight Bus, emergency transport for the stranded witch or wizard. Just stick out your wand hand, step on board and we can take you anywhere you want to go.'",
@@ -47,9 +45,7 @@
         "category":[6,7,1],
         "idLabel":4,
         "image":"book2.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"'There will be three tasks, spaced throughout the school year, and they will test the champions in many different ways ... their magical prowess - their daring - their powers of deduction - and, of course, their ability to cope with danger.'",
@@ -80,9 +76,7 @@
         "category":[6,7,1],
         "idLabel":1,
         "image":"book3.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"There it was, hanging in the sky above the school: the blazing green skull with a serpent tongue, the mark Death Eaters left behind whenever they had entered a building... wherever they had murdered...",
@@ -113,9 +107,7 @@
         "category":[6,7,1],
         "idLabel":1,
         "image":"book4.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"'You are sharing the Dark Lord's thoughts and emotions. The Headmaster thinks it inadvisable for this to continue. He wishes me to teach you how to close your mind to the Dark Lord.'",
@@ -142,9 +134,7 @@
         "category":[1,6,7],
         "idLabel":4,
         "image":"book5.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.",
@@ -175,9 +165,7 @@
         "category":[1,6],
         "idLabel":5,
         "image":"book6.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Legendary storyteller Stephen King goes into the deepest well of his imagination in this spellbinding novel about a seventeen-year-old boy who inherits the keys to a parallel world where good and evil are at war, and the stakes could not be higher-for that world or ours.",
@@ -208,9 +196,7 @@
         "category":[1,6],
         "idLabel":1,
         "image":"book7.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Master storyteller Stephen King, whose \"restless imagination is a power that cannot be contained\" (The New York Times Book Review), presents an unforgettable and relentless #1 New York Times bestseller about a good guy in a bad job.",
@@ -241,9 +227,7 @@
         "category":[1,6],
         "idLabel":null,
         "image":"book8.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"An impressive work of mythic magnitude that may turn out to be Stephen King's greatest literary achievement\" (The Atlanta Journal-Constitution), The Gunslinger is the first volume in the epic Dark Tower Series.",
@@ -274,9 +258,7 @@
         "category":[1],
         "idLabel":3,
         "image":"book9.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis's parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there's no window. And outside his door are other doors, behind which are other kids with special talents-telekinesis and telepathy-who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, \"like the roach motel,\" Kalisha says. \"You check in, but you don't check out.\"",
@@ -307,9 +289,7 @@
         "category":[1,6],
         "idLabel":null,
         "image":"book10.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote . . . and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
@@ -332,9 +312,7 @@
         "category":[1,6],
         "idLabel":null,
         "image":"book11.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The final book in the New York Times bestselling Gwendy's Button Box trilogy from Stephen King and Richard Chizmar.",
@@ -365,9 +343,7 @@
         "category":[1,6],
         "idLabel":null,
         "image":"book12.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Evil has many faces…maybe even yours in this #1 New York Times bestseller from master storyteller Stephen King.",
@@ -399,9 +375,7 @@
         "category":[1,6],
         "idLabel":1,
         "image":"book13.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"#1 New York Times bestseller! In a high-suspense race against time, three of the most unlikely heroes Stephen King has ever created try to stop a lone killer from blowing up thousands. \"Mr. Mercedes is a rich, resonant, exceptionally readable accomplishment by a man who can write in whatever genre he chooses\" (The Washington Post).",
@@ -432,9 +406,7 @@
         "category":[1,6],
         "idLabel":null,
         "image":"book14.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Ben Mears has returned to Jerusalem's Lot in hopes that exploring the history of the Marsten House, an old mansion long the subject of rumor and speculation, will help him cast out his personal devils and provide inspiration for his new book.",
@@ -469,9 +441,7 @@
         "category":[1,6],
         "idLabel":4,
         "image":"book15.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Stephen King's terrifying, classic #1 New York Times bestseller, \"a landmark in American literature\" (Chicago Sun-Times)-about seven adults who return to their hometown to confront a nightmare they had first stumbled on as teenagers…an evil without a name: It.",
@@ -502,9 +472,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book16.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"THE MOST WIDELY READ MYSTERY OF ALL TIME-NOW A MAJOR MOTION PICTURE DIRECTED BY KENNETH BRANAGH AND PRODUCED BY RIDLEY SCOTT!",
@@ -535,9 +503,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book17.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"If you're one of the few who haven't experienced the genius of Agatha Christie, this novel is a stellar starting point.\" - DAVID BALDACCI, #1 New York Times Bestselling Author",
@@ -568,9 +534,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book18.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Murder of Roger Ackroyd is a work of detective fiction by British writer Agatha Christie, first published in June 1926 in the United Kingdom. It is the third novel to feature Hercule Poirot as the lead detective.",
@@ -597,9 +561,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book19.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"Reading a perfectly plotted Agatha Christie is like crunching into a perfect apple: that pure, crisp, absolute satisfaction.\" -Tana French, New York Times bestselling author of the Dublin Murder Squad novels",
@@ -630,9 +592,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book20.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"One morning at Styles Court, an Essex country manor, the elderly owner is found dead of strychnine poisoning. Arthur Hastings, a soldier staying there on sick leave from the Western Front, ventures out to the nearby village of Styles St. Mary to ask help from his friend Hercule Poirot, an eccentric Belgian inspector. Thus, in this classic whodunit, one of the most famous characters in detective fiction makes his debut on the world stage. With a half dozen suspects who all harbor secrets, it takes all of Poirot's prodigious sleuthing skills to untangle the mystery-but not before the inquiry undergoes scores of spellbinding twists and surprises. Contains the original illustrations and a detailed biography.",
@@ -655,9 +615,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book21.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"A top-notch literary brainteaser.\" -New York Times",
@@ -688,9 +646,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book22.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Murder at the Vicarage is Agatha Christie's first mystery to feature the beloved investigator Miss Marple-as a dead body in a clergyman's study proves to the indomitable sleuth that no place, holy or otherwise, is a sanctuary from homicide.",
@@ -721,9 +677,7 @@
         "category":[1],
         "idLabel":2,
         "image":"book23.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Agatha Christie's classic, The Hollow, finds Poirot entangled in a nasty web of family secrets when he comes across a fresh murder at an English country manor.",
@@ -754,9 +708,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book24.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The villagers of Chipping Cleghorn, including Jane Marple, are agog with curiosity over an advertisement in the local gazette which read: 'A murder is announced and will take place on Friday October 29th, at Little Paddocks at 6:30 p.m.' Unable to resist the mysterious invitation, a crowd begins to gather at Little Paddocks at the pointed time when, without warning, the lights go out ...",
@@ -779,9 +731,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book25.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In Sparkling Cyanide, Agatha Christie seats six-including a murderer-around a dining table set for seven, one year to the day that a beautiful heiress was poisoned in that very room.",
@@ -812,9 +762,7 @@
         "category":[1],
         "idLabel":4,
         "image":"book26.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892. It contains the earliest short stories featuring the consulting detective Sherlock Holmes, which had been published in twelve monthly issues of The Strand Magazine from July 1891 to June 1892. The stories are collected in the same sequence, which is not supported by any fictional chronology. The only characters common to all twelve are Holmes and Dr. Watson and all are related in first-person narrative from Watson's point of view.",
@@ -845,9 +793,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book27.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Hound of the Baskervilles is the third of the four crime novels written by Sir Arthur Conan Doyle featuring the detective Sherlock Holmes. Originally serialised in The Strand Magazine from August 1901 to April 1902, it is set largely on Dartmoor in Devon in England's West Country and tells the story of an attempted murder inspired by the legend of a fearsome, diabolical hound of supernatural origin. Sherlock Holmes and his companion Dr. Watson investigate the case. This was the first appearance of Holmes since his apparent death in \"The Final Problem\", and the success of The Hound of the Baskervilles led to the character's eventual revival.",
@@ -870,9 +816,7 @@
         "category":[1],
         "idLabel":2,
         "image":"book28.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"A Study in Scarlet first appeared in 1887 in Beeton's Christmas Annual and was marked the first appearance of Sherlock Holmes and Dr. Watson, who would become the most famous detective duo in popular fiction. The book's title derives from a speech given by Holmes, a consulting detective, to his friend and chronicler Watson on the nature of his work, in which he describes the story's murder investigation as his \"study in scarlet\". The story, and its main characters, attracted little public interest when it first appeared. This book is the first of four full-length novels about Holmes. Doyle's other works were collections of short stories.",
@@ -895,9 +839,7 @@
         "category":[1],
         "idLabel":4,
         "image":"book29.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Memoirs of Sherlock Holmes is a collection of Sherlock Holmes stories, originally published in 1893, by Arthur Conan Doyle. Doyle had decided that these would be the last collection of Holmes's stories, and intended to kill him off in the last adventure \"The Final Problem\". Readers wanted him to write more adventures featuring Sherlock Holmes, so Doyle released The Hound of the Baskervilles years later. He followed that up with The Return of Sherlock Holmes, in which Holmes relates how he survived.",
@@ -920,9 +862,7 @@
         "category":[1],
         "idLabel":null,
         "image":"book30.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"A nice edition with the first edition cover and 13 original illustrations.",
@@ -949,9 +889,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book31.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Before New York Times bestselling author Bill Bryson wrote The Road to Little Dribbling, he took this delightfully irreverent jaunt around the unparalleled floating nation of Great Britain, which has produced zebra crossings, Shakespeare, Twiggie Winkie's Farm, and places with names like Farleigh Wallop and Titsey.",
@@ -974,9 +912,7 @@
         "category":[1,9],
         "idLabel":null,
         "image":"book32.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"One of the world's most beloved writers and New York Times bestselling author of A Walk in the Woods and The Body takes his ultimate journey-into the most intriguing and intractable questions that science seeks to answer.",
@@ -1003,9 +939,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book33.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"The best way of escaping into nature.\"-The New York Times ",
@@ -1036,9 +970,7 @@
         "category":[2],
         "idLabel":2,
         "image":"book34.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Every time Bill Bryson walks out the door, memorable travel literature threatens to break out. This time in Australia.",
@@ -1069,9 +1001,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book35.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"A loving and hilarious-if occasionally spiky-valentine to Bill Bryson's adopted country, Great Britain. Prepare for total joy and multiple episodes of unseemly laughter.",
@@ -1102,9 +1032,7 @@
         "category":[2,9],
         "idLabel":null,
         "image":"book36.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In One Summer Bill Bryson, one of our greatest and most beloved nonfiction writers, transports readers on a journey back to one amazing season in American life.",
@@ -1135,9 +1063,7 @@
         "category":[2],
         "idLabel":2,
         "image":"book37.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"A classic from the New York Times bestselling author of A Walk in the Woods and The Body.",
@@ -1168,9 +1094,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book38.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From the author of A Short History of Nearly Everything and The Body comes a travel diary documenting a visit to Kenya. All royalties and profits go to CARE International.",
@@ -1201,9 +1125,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book39.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In the early seventies, Bill Bryson backpacked across Europe-in search of enlightenment, beer, and women. He was accompanied by an unforgettable sidekick named Stephen Katz (who will be gloriously familiar to readers of Bryson's A Walk in the Woods). Twenty years later, he decided to retrace his journey. The result is the affectionate and riotously funny Neither Here Nor There.",
@@ -1226,9 +1148,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book40.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"An inspiring and hilarious account of one man's rediscovery of America and his search for the perfect small town.",
@@ -1255,9 +1175,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book41.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The acclaimed author recounts his epic journey across Europe and Asia in this international bestselling classic of travel literature: \"Compulsive reading\" (Graham Greene).",
@@ -1288,9 +1206,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book42.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The acclaimed author of The Great Railway Bazaar takes a revealing journey through the Southern US in a \"vivid contemporary portrait of rural life\" (Atlanta Journal-Constitution).",
@@ -1321,9 +1237,7 @@
         "category":[2],
         "idLabel":2,
         "image":"book43.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The author of The Great Railway Bazaar explores the South Pacific by kayak: \"This exhilarating epic ranks with [his] best travel books\" (Publishers Weekly).",
@@ -1354,9 +1268,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book44.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The legendary travel writer drives the entire length of the US-Mexico border, then takes the back roads of Chiapas and Oaxaca, to uncover the rich, layered world behind the everyday headlines.",
@@ -1383,9 +1295,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book45.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The acclaimed travel writer journeys by train across the Americas from Boston to Patagonia in this international bestselling travel memoir.",
@@ -1416,9 +1326,7 @@
         "category":[3,10],
         "idLabel":2,
         "image":"book46.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Updated for the first time in more than forty years, Dale Carnegie's timeless bestseller How to Win Friends and Influence People-a classic that has improved and transformed the personal and professional lives of millions.",
@@ -1449,9 +1357,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book47.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"Let's not allow ourselves to be upset by small things we should despise and forget. Remember \"Life is too short to belittle\".\" \"One of the most tragic things I know about human nature is that all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon-instead of enjoying the roses that are blooming outside our windows today. Why are we such fools-such tragic fools?\" \"The most important thing in life is not to capitalize on your gains. Any fool can do that. The really important thing is to profit from your losses.\" -Dale Carnegie This enlightening self-book offers a detailed guide on how to manage your worries to lead a delightful life. More often than not our personal and professional relationships are the major cause of stress and anxiety. A best-seller of all times, this book will help you achieve your maximum potential in the complex and competitive modern age, without worrying about your associations and affiliations with others.",
@@ -1474,9 +1380,7 @@
         "category":[3,10],
         "idLabel":null,
         "image":"book48.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Do you have trouble getting up in front of an audience? Are you struggling to get your point across? Public speaking can be nerve-wracking, especially if you're a naturally nervous person or if you're underprepared. Originally published in 1915, The Art of Public Speaking has been the go-to guide for those who want to better their speaking abilities for more than a century.",
@@ -1499,9 +1403,7 @@
         "category":[3],
         "idLabel":5,
         "image":"book49.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Take command of your future with this groundbreaking book from the experts who brought you How to Win Friends and Influence People.",
@@ -1528,9 +1430,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book50.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Good public speakers are made-not born. Public speaking is an important skill which anyone can acquire and develop. This book that has literally put millions on the highway to greater accomplishment and success can show you how to have maximum impact as a speaker. It will help you to acquire basic public speaking skills, building confidence, earning the right to talk, sharing the talk with the audience.",
@@ -1553,9 +1453,7 @@
         "category":[3],
         "idLabel":3,
         "image":"book51.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Why do we so often fail to connect when speaking with business colleagues, family members, or friends? Wouldn't you like to make yourself heard and understood in all of your relationships?",
@@ -1586,9 +1484,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book52.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From one of the most trusted and bestselling brands in business training, Make Yourself Unforgettable reveals how to develop and embody unforgettable qualities so you can become the effective and desirable colleague and friend possible.",
@@ -1619,9 +1515,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book53.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Dale Carnegie's How to Develop-Self Confidence & Influence People is an evergreen work. The main takeaway from this book is that improving public speaking and improving self-confidence are a function of preparation, education, determination and practice. There is no short cut to a better you - rather a long path of self-improvement.",
@@ -1644,9 +1538,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book54.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"How To Stop Worrying and Start Living is a self-help book by Dale Carnegie. Carnegie is considered to be one of the greatest self-help experts, he mentions in the preface that he wrote it because he \"was one of the unhappiest lads in New York\". He says that he made himself sick with worry because he hated his position in life, which he attributes to wanting to figure out how to stop worrying.",
@@ -1673,9 +1565,7 @@
         "category":[3,10],
         "idLabel":3,
         "image":"book55.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Why do we so often fail to connect when speaking with others? Wouldn't you like to make yourself heard and understood? Using vivid examples, easy-to-learn techniques, and practical exercises for becoming a better listener-and making yourself heard and understood, Dale Carnegie will show you how it's done, even in difficult situations.",
@@ -1702,9 +1592,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book56.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Transform your life or the life of someone you love with Life Force-the newest breakthroughs in health technology to help maximize your energy and strength, prevent disease, and extend your health span-from Tony Robbins, author of the #1 New York Times bestseller Money: Master the Game.",
@@ -1735,9 +1623,7 @@
         "category":[3,10],
         "idLabel":null,
         "image":"book57.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Tony Robbins turns to the topic that vexes us all: How to secure financial freedom for ourselves and for our families. \"If there were a Pulitzer Prize for investment books, this one would win, hands down\" (Forbes).",
@@ -1768,9 +1654,7 @@
         "category":[3,10],
         "idLabel":3,
         "image":"book58.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Transform your financial life and accelerate your path to financial freedom with this step-by-step playbook to achieving your financial goals from the #1 New York Times bestseller of Money: Master the Game, Tony Robbins.",
@@ -1797,9 +1681,7 @@
         "category":[3,10],
         "idLabel":3,
         "image":"book59.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Accelerate your journey to financial freedom with the tools, strategies, and mindset of money mastery.",
@@ -1826,9 +1708,7 @@
         "category":[3],
         "idLabel":null,
         "image":"book60.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"I believe that the discoveries in this book can change our understanding of how we store emotional experiences and in so doing, change our lives. The Emotion Code has already changed many lives around the world, and it is my hope that millions more will be led to use this simple tool to heal themselves and their loved ones.\"-Tony Robbins",
@@ -1859,9 +1739,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book61.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"What a cookbook should be: packed with sumptuous recipes, detailed instructions, and precise line drawings. Some of the instructions look daunting, but as Child herself says in the introduction, 'If you can read, you can cook.'\" -Entertainment Weekly",
@@ -1892,9 +1770,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book62.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The beloved sequel to the bestselling classic, Mastering the Art of French Cooking, Volume II presents more fantastic step-by-step French recipes for home cooks.",
@@ -1925,9 +1801,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book63.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The beloved icon and author of best-selling classic Mastering the Art of French Cooking presents an array of delectable French recipes that first made her a household name.",
@@ -1954,9 +1828,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book64.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In this indispensable volume of kitchen wisdom, Julia Child gives home cooks the answers to their most pressing cooking questions-with essential information about soups, vegetables, eggs, baking breads and tarts, and more.",
@@ -1987,9 +1859,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book65.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Perfect for home cooks, Julia fans, and anyone who simply loves to eat and drink-a delightful collection of the beloved chef and bestselling author's words of wisdom on love, life, and, of course, food.",
@@ -2016,9 +1886,7 @@
         "category":[4],
         "idLabel":3,
         "image":"book66.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In her most creative and instructive cookbook, Julia Child distills a lifetime of cooking into 800 recipes emphasizing lightness, freshness, and simplicity. Chapters are structured around master recipes, followed by innumerable variations that are easily made once the basics are understood. For example, make Julia's simple but impeccably prepared sauté of chicken, and before long you're easily whipping up Chicken with Mushrooms and Cream, Chicken Provençale, Chicken Pipérade, or Chicken Marengo. Or master her perfect broiled butterflied chicken, and you'll soon be including Deviled Rabbit or Split Cornish Game Hens Broiled with Cheese on your menu.",
@@ -2045,9 +1913,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book67.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Two legendary cooks invite us into their kitchen and show us the basics of good home cooking.",
@@ -2074,9 +1940,7 @@
         "category":[2],
         "idLabel":null,
         "image":"book68.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Julia's story of her transformative years in France in her own words is \"captivating ... her marvelously distinctive voice is present on every page.\" (San Francisco Chronicle).",
@@ -2103,9 +1967,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book69.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Nothing promises pleasure more readily than the words \"freshly baked.\" And nothing says magnum opus as definitively as Baking with Julia, which offers the dedicated home cook, whether a novice or seasoned veteran, a unique distillation of the baker's art.",
@@ -2132,9 +1994,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book70.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Here are seven menus to make any meal a treat--morning, noon, or evening. From a breezy Holiday Lunch featuring a melon-sized pate of chicken and a salad of skewered vegetables to a homey Sunday Night Supper of corned beef and pork with a fresh tomato fondue, Julia shows you how to plan ahead and cook without trepidation. Her incomparable step-by-step recipes, shopping lists, variations, and suggestions for leftovers are complemented by more than 100 photographs and ensure success with every meal.",
@@ -2157,9 +2017,7 @@
         "category":[4],
         "idLabel":5,
         "image":"book71.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"One is the ultimate cookbook that will make getting good food on the table easier than ever before . . . Jamie Oliver is back to basics with over 120 simple, delicious, ONE pan recipes.",
@@ -2190,9 +2048,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book72.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Jamie Oliver--one of the bestselling cookbook authors of all time--is back with a bang. Focusing on incredible combinations of just five ingredients, he's created 130 brand-new recipes that you can cook up at home, any day of the week. From salads, pasta, chicken, and fish to exciting ways with vegetables, rice and noodles, beef, pork, and lamb, plus a bonus chapter of sweet treats, Jamie's got all the bases covered. This is about maximum flavor with minimum fuss, lots of nutritious options, and loads of epic inspiration.",
@@ -2215,9 +2071,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book73.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Jamie Oliver will teach you how to make good food super-fast in his game-changing guide to coordinating an entire meal without any fuss.",
@@ -2248,9 +2102,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book74.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Welcome friends and family back around your table with Jamie Oliver's brand-new cookbook, Together - a joyous celebration of incredible food to share.",
@@ -2281,9 +2133,7 @@
         "category":[4],
         "idLabel":null,
         "image":"book75.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Jamie Oliver, one of the bestselling cookbook authors of all time, is back with brilliantly easy, delicious, and flavor-packed vegetable recipes.",
@@ -2314,9 +2164,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book76.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"This 25th anniversary edition of Steven Levy's classic book traces the exploits of the computer revolution's original hackers -- those brilliant and eccentric nerds from the late 1950s through the early '80s who took risks, bent the rules, and pushed the world in a radical new direction. With updated material from noteworthy hackers such as Bill Gates, Mark Zuckerberg, Richard Stallman, and Steve Wozniak, Hackers is a fascinating story that begins in early computer research labs and leads to the first home computers.",
@@ -2343,9 +2191,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book77.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"The most interesting book ever written about Google\" (The Washington Post) delivers the inside story behind the most successful and admired technology company of our time, now updated with a new Afterword.",
@@ -2376,9 +2222,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book78.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"If you've ever made a secure purchase with your credit card over the Internet, then you have seen cryptography, or \"crypto\", in action. From Stephen Levy-the author who made \"hackers\" a household word-comes this account of a revolution that is already affecting every citizen in the twenty-first century. Crypto tells the inside story of how a group of \"crypto rebels\"-nerds and visionaries turned freedom fighters-teamed up with corporate interests to beat Big Brother and ensure our privacy on the Internet. Levy's history of one of the most controversial and important topics of the digital age reads like the best futuristic fiction.",
@@ -2401,9 +2245,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book79.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"One of the Best Technology Books of 2020-Financial Times",
@@ -2434,9 +2276,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book80.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The creation of the Mac in 1984 catapulted America into the digital millennium, captured a fanatic cult audience, and transformed the computer industry into an unprecedented mix of technology, economics, and show business. Now veteran technology writer and Newsweek senior editor Steven Levy zooms in on the great machine and the fortunes of the unique company responsible for its evolution. Loaded with anecdote and insight, and peppered with sharp commentary, Insanely Great is the definitive book on the most important computer ever made. It is a must-have for anyone curious about how we got to the interactive age.",
@@ -2463,9 +2303,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book81.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The bestselling author of Leonardo da Vinci and Steve Jobs returns with a \"compelling\" (The Washington Post) account of how Nobel Prize winner Jennifer Doudna and her colleagues launched a revolution that will allow us to cure diseases, fend off viruses, and have healthier babies.",
@@ -2496,9 +2334,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book82.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"With a new introduction by the authors, this is the classic account of the American statesmen who rebuilt the world after the catastrophe of World War II.",
@@ -2529,9 +2365,7 @@
         "category":[5],
         "idLabel":null,
         "image":"book83.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Following his blockbuster biography of Steve Jobs, Walter Isaacson's New York Times bestselling and critically acclaimed The Innovators is a \"riveting, propulsive, and at times deeply moving\" (The Atlantic) story of the people who created the computer and the internet.",
@@ -2562,9 +2396,7 @@
         "category":[5,9],
         "idLabel":null,
         "image":"book84.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The #1 New York Times bestseller from Walter Isaacson brings Leonardo da Vinci to life in this exciting new biography that is \"a study in creativity: how to define it, how to achieve it…Most important, it is a powerful story of an exhilarating mind and life\" (The New Yorker).",
@@ -2595,9 +2427,7 @@
         "category":[5,9],
         "idLabel":null,
         "image":"book85.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"By the author of the acclaimed bestsellers Benjamin Franklin and Steve Jobs, this is the definitive biography of Albert Einstein.",
@@ -2628,9 +2458,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book86.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Join in the fun with Sam-I-Am in this iconic classic by Dr. Seuss that will have readers of all ages craving Green Eggs and Ham! This is a beloved classic from the bestselling author of Horton Hears a Who!, The Lorax, and Oh, the Places You'll Go!",
@@ -2661,9 +2489,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book87.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Dr. Seuss's wonderfully wise Oh, the Places You'll Go! is the perfect gift to celebrate all of our special milestones-from graduations to birthdays and beyond!",
@@ -2694,9 +2520,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book88.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Count and explore the zany world and words of Seuss in this classic picture book.",
@@ -2727,9 +2551,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book89.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Have a ball with Dr. Seuss and the Cat in the Hat in this classic picture book...but don't forget to clean up your mess!",
@@ -2760,9 +2582,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book90.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Grow your heart three sizes and get in on all of the Grinch-mas cheer with this Christmas classic--the ultimate Dr. Seuss holiday book that no collection is complete without!",
@@ -2793,9 +2613,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book91.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Find out how wacky words can be with Dr. Seuss and the Fox in Socks in this classic hardcover picture book of tongue tanglers!",
@@ -2826,9 +2644,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book92.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"An iconic collection of original stories from Dr. Seuss that includes the official versions of \"The Sneetches,\" \"The Zax,\" \"Too Many Daves,\" and \"What Was I Scared Of?\" This is a beloved classic that deserves a place in every child's library-from the bestselling author of Horton Hears a Who!, The Lorax, and Oh, the Places You'll Go!",
@@ -2855,9 +2671,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book93.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Celebrate Earth Day with Dr. Seuss and the Lorax in this classic picture book about protecting the environment!",
@@ -2888,9 +2702,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book94.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Arguably the most entertaining alphabet book ever written, this classic Beginner Book by Dr. Seuss is perfect for children learning their ABCs. Featuring a fantastic cast of zany characters-from Aunt Annie's alligator to the Zizzer-Zazzer-Zuzz, with a lazy lion licking a lollipop and an ostrich oiling an orange owl-Dr. Seuss's ABC is a must-have for every young child's library.",
@@ -2917,9 +2729,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book95.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Join Dr. Seuss in this classic rhyming picture book-\"the simplest Seuss for youngest use.\"",
@@ -2950,9 +2760,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book96.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Now a musical on broadway and streaming on Netflix!",
@@ -2983,9 +2791,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book97.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Willy Wonka's famous chocolate factory is opening at last!",
@@ -3012,9 +2818,7 @@
         "category":[7],
         "idLabel":1,
         "image":"book98.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From the World's No. 1 Storyteller, James and the Giant Peach is a children's classic that has captured young reader's imaginations for generations.",
@@ -3045,9 +2849,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book99.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Roald Dahl's beloved novel hits the big screen in July 2016 in a major motion picture adaptation directed by Steven Spielberg from Amblin Entertainment and Walt Disney Pictures.",
@@ -3074,9 +2876,7 @@
         "category":[7],
         "idLabel":null,
         "image":"book100.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From the bestselling author of Charlie and the Chocolate Factory and The BFG!",
@@ -3103,9 +2903,7 @@
         "category":[8],
         "idLabel":5,
         "image":"book101.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"#1 NEW YORK TIMES BESTSELLER • A twist you won't see coming. A love story you'll never forget. From the acclaimed author of The Notebook comes a powerful novel about risking everything for a dream-and whether it's possible to leave the past behind.",
@@ -3136,9 +2934,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book102.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"With exclusive travel photos and a special letter from the Author, only available for e-readers.",
@@ -3169,9 +2965,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book103.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Treat yourself to an epic #1 New York Times bestselling love story that spans decades and continents as two people at a crossroads -- one from North Carolina and one from Zimbabwe -- experience the transcendence and heartbreak of true love.",
@@ -3202,9 +2996,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book104.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In the romantic tradition of Dear John, an injured Navy doctor meets two extremely important women whose secrets will change the course of his life in this #1 New York Times bestseller.",
@@ -3235,9 +3027,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book105.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In this heartfelt Southern love story from the #1 New York Times bestselling author of The Notebook, a daring fireman rescues a single mom-and learns that falling in love is the greatest risk of all.",
@@ -3271,9 +3061,7 @@
         "idLabel":null,
         "image":"book106.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Fall in love with this small-town love story about a widower sheriff and a divorced schoolteacher who are searching for second chances -- only to be threatened by long-held secrets of the past.",
@@ -3303,9 +3091,7 @@
         "idLabel":null,
         "image":"book107.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Part love story and part ghost story, this is an unforgettable New York Times bestseller about a science journalist and a North Carolina librarian who dare to believe in the impossible.",
@@ -3339,9 +3125,7 @@
         "idLabel":null,
         "image":"book108.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"After her husband's death, a young widow with a faithful Great Dane must decide between two men -- but as new love blossoms, jealousy turns deadly in this suspenseful New York Times bestseller.",
@@ -3372,9 +3156,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book109.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In this suspenseful New York Times bestseller, a chance encounter between a successful lawyer and a rebellious bad boy will change life as they know it forever, as their pasts catch up with them . . .",
@@ -3408,9 +3190,7 @@
         "idLabel":null,
         "image":"book110.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"In this New York Times bestseller, a single father discovers the true nature of unconditional love when a new chance at happiness turns his world upside down.",
@@ -3441,9 +3221,7 @@
         "category":[8],
         "idLabel":5,
         "image":"book111.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The conclusion of the epic trilogy from the #1 New York Times bestselling author of The Awakening and The Becoming.",
@@ -3474,9 +3252,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book112.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"A new epic of love and war among gods and humans, from Nora Roberts-the #1 New York Times bestselling author of The Awakening.",
@@ -3507,9 +3283,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book113.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"#1 New York Times bestselling author Nora Roberts begins a new trilogy of adventure, romance, and magick in The Awakening.",
@@ -3541,9 +3315,7 @@
         "idLabel":null,
         "image":"book114.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"#1 New York Times bestselling author Nora Roberts introduces an unforgettable thief in an unputdownable new novel…",
@@ -3574,9 +3346,7 @@
         "category":[8],
         "idLabel":null,
         "image":"book115.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"First in The Calhoun Women series, #1 New York Times bestselling author Nora Roberts's Courting Catherine begins a story of sisters bound by their family's ancestral home and determined to forge their own futures.",
@@ -3607,9 +3377,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book116.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Pulitzer Prize-winning biography of Harry S. Truman, whose presidency included momentous events from the atomic bombing of Japan to the outbreak of the Cold War and the Korean War, told by America's beloved and distinguished historian.",
@@ -3636,9 +3404,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book117.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The National Book Award-winning epic chronicle of the creation of the Panama Canal, a first-rate drama of the bold and brilliant engineering feat that was filled with both tragedy and triumph, told by master historian David McCullough.",
@@ -3669,9 +3435,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book118.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The #1 New York Times bestseller by Pulitzer Prize-winning historian David McCullough rediscovers an important chapter in the American story that's \"as resonant today as ever\" (The Wall Street Journal)-the settling of the Northwest Territory by courageous pioneers who overcame incredible hardships to build a community based on ideals that would define our country.",
@@ -3702,9 +3466,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book119.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"America's beloved and distinguished historian presents, in a book of breathtaking excitement, drama, and narrative force, the stirring story of the year of our nation's birth, 1776, interweaving, on both sides of the Atlantic, the actions and decisions that led Great Britain to undertake a war against her rebellious colonial subjects and that placed America's survival in the hands of George Washington.",
@@ -3731,9 +3493,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book120.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The dramatic and enthralling story of the building of the Brooklyn Bridge, the world's longest suspension bridge at the time, a tale of greed, corruption, and obstruction but also of optimism, heroism, and determination, told by master historian David McCullough.",
@@ -3764,9 +3524,7 @@
         "category":[9],
         "idLabel":5,
         "image":"book121.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The aim of this book has been to satisfy the curiosity of the average, non-technical reader regarding the work of the Wright Brothers, and to do so as simply as possible. This book has been vetted for accuracy by Orville Wright himself, who has read the manuscript and given generously of his time in verifying the accuracy of various statements and in correcting inaccuracies that otherwise would have appeared.",
@@ -3789,9 +3547,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book122.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The Pulitzer Prize-winning, bestselling biography of America's founding father and second president that was the basis for the acclaimed HBO series, brilliantly told by master historian David McCullough.",
@@ -3822,9 +3578,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book123.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From Alexander von Humboldt to Charles and Anne Lindbergh, these are stories of people of great vision and daring whose achievements continue to inspire us today, brilliantly told by master historian David McCullough.",
@@ -3855,9 +3609,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book124.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The National Book Award-winning biography that tells the story of how young Teddy Roosevelt transformed himself from a sickly boy into the vigorous man who would become a war hero and ultimately president of the United States, told by master historian David McCullough.",
@@ -3888,9 +3640,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book125.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The stunning story of one of America's great disasters, a preventable tragedy of Gilded Age America, brilliantly told by master historian David McCullough.",
@@ -3921,9 +3671,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book126.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Winner of the Lincoln Prize",
@@ -3954,9 +3702,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book127.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Doris Kearns Goodwin's Pulitzer Prize-winning classic about the relationship between Franklin D. Roosevelt and Eleanor Roosevelt, and how it shaped the nation while steering it through the Great Depression and the outset of World War II.",
@@ -3983,9 +3729,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book128.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From Pulitzer Prize-winning author and esteemed presidential historian Doris Kearns Goodwin, an invaluable guide to the development and exercise of leadership from Abraham Lincoln, Theodore Roosevelt, Lyndon B. Johnson, and Franklin D. Roosevelt.",
@@ -4016,9 +3760,7 @@
         "category":[9],
         "idLabel":null,
         "image":"book129.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Pulitzer Prize-winning author and presidential historian Doris Kearns Goodwin's dynamic history of Theodore Roosevelt, William H. Taft and the first decade of the Progressive era, that tumultuous time when the nation was coming unseamed and reform was in the air.",
@@ -4050,9 +3792,7 @@
         "idLabel":null,
         "image":"book130.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"All forward thrust and hot-damn urgency…A brilliant, brawling epic. Screenwriter Tony Kushner blows the dust off history by investing it with flesh, blood, and churning purpose. . . . A great American movie.\" -Peter Travers, Rolling Stone",
@@ -4083,9 +3823,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book131.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Explore the power of the underdog in Malcolm Gladwell's dazzling examination of success, motivation, and the role of adversity in shaping our lives, from the bestselling author of The Bomber Mafia.",
@@ -4116,9 +3854,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book132.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Malcolm Gladwell, host of the podcast Revisionist History and author of the #1 New York Times bestseller Outliers, offers a powerful examination of our interactions with strangers and why they often go wrong-now with a new afterword by the author.",
@@ -4149,9 +3885,7 @@
         "category":[10],
         "idLabel":1,
         "image":"book133.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Malcolm Gladwell, bestselling author of Blink and The Bomber Mafia and host of the podcast Revisionist History, explores what sets high achievers apart-from Bill Gates to the Beatles-in this seminal work from \"a singular talent\" (New York Times Book Review).",
@@ -4182,9 +3916,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book134.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From the #1 bestselling author of The Bomber Mafia, the landmark book that has revolutionized the way we understand leadership and decision making.",
@@ -4211,9 +3943,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book135.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"From the bestselling author of The Bomber Mafia: discover Malcolm Gladwell's breakthrough debut and explore the science behind viral trends in business, marketing, and human behavior.",
@@ -4244,9 +3974,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book136.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The #1 New York Times bestseller: \"It is the work of our greatest financial journalist, at the top of his game. And it's essential reading.\" - Graydon Carter, Vanity Fair",
@@ -4277,9 +4005,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book137.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The time was the 1980s. The place was Wall Street. The game was called Liar's Poker.",
@@ -4309,9 +4035,7 @@
         "idLabel":null,
         "image":"book138.jpg",
 
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"Michael Lewis's instant classic may be \"the most influential book on sports ever written\" (People), but \"you need know absolutely nothing about baseball to appreciate the wit, snap, economy and incisiveness of [Lewis's] thoughts about it\" (Janet Maslin, New York Times).",
@@ -4342,9 +4066,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book139.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"The New York Times Bestseller, with a new afterword",
@@ -4375,9 +4097,7 @@
         "category":[10],
         "idLabel":null,
         "image":"book140.jpg",
-        "comments":[
-            
-        ],
+
         "description":[
             {
                 "text":"\"Brilliant. . . . Lewis has given us a spectacular account of two great men who faced up to uncertainty and the limits of human reason.\" —William Easterly, Wall Street Journal",

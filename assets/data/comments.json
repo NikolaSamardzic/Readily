@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "useranme": "Jemma T.",
+        "username": "Jemma T.",
         "avatar":"avatar2.jpg",
         "stars":5,
         "bookId":1,
@@ -15,7 +15,7 @@
     },
     {
         "id":2,
-        "useranme": "Eric Crim",
+        "username": "Eric Crim",
         "avatar":"avatar1.jpg",
         "stars":4,
         "bookId":1,
@@ -29,7 +29,7 @@
     },
     {
         "id":3,
-        "useranme": "Dylan Silverstein",
+        "username": "Dylan Silverstein",
         "avatar":"default-avatar.jpg",
         "stars":5,
         "bookId":1,
@@ -43,7 +43,7 @@
     },
     {
         "id":4,
-        "useranme": "mdcool1234",
+        "username": "mdcool1234",
         "avatar":"default-avatar.jpg",
         "stars":4,
         "bookId":1,
@@ -63,7 +63,7 @@
     },
     {
         "id":5,
-        "useranme": "Sean Brannon",
+        "username": "Sean Brannon",
         "avatar":"default-avatar.jpg",
         "stars":4,
         "bookId":1,
@@ -81,7 +81,7 @@
     },
     {
         "id":6,
-        "useranme": "NeosoulNoona",
+        "username": "NeosoulNoona",
         "avatar":"avatar3.jpg",
         "stars":5,
         "bookId":1,
@@ -97,7 +97,7 @@
     },
     {
         "id":7,
-        "useranme": "Desirae Fields",
+        "username": "Desirae Fields",
         "avatar":"default-avatar.jpg",
         "stars":2,
         "bookId":1,
@@ -112,7 +112,7 @@
     },
     {
         "id":8,
-        "useranme": "Angela",
+        "username": "Angela",
         "avatar":"default-avatar.jpg",
         "stars":4,
         "bookId":2,
@@ -126,7 +126,7 @@
     },
     {
         "id":9,
-        "useranme": "Alonso C",
+        "username": "Alonso C",
         "avatar":"avatar4.jpg",
         "stars":5,
         "bookId":2,
@@ -146,7 +146,7 @@
     },
     {
         "id":10,
-        "useranme": "Jemma T.",
+        "username": "Jemma T.",
         "avatar":"default-avatar.jpg",
         "stars":5,
         "bookId":2,
@@ -160,7 +160,7 @@
     },
     {
         "id":11,
-        "useranme": "Mike",
+        "username": "Mike",
         "avatar":"avatar5.jpg",
         "stars":4,
         "bookId":3,

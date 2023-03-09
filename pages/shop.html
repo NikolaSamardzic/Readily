@@ -33,6 +33,31 @@
 
     </header>
 
+    <section id="section-container">
+        <section id="filter-sort-section">
+            <input type="text" placeholder="search">
+            <h3 id="heading-price">Price</h3>
+            <div id="price-container">
+                <input type="number" id="price-min">
+                <input type="number" id="price-max">
+            </div>
+
+            <h3 id="heading-categories">Categories</h3>
+            <div id="categories-option">
+
+            </div>
+            
+            <h3>Sort</h3>
+            <select name="sort" id="sort"></select>
+
+        </section>
+    
+        <section id="section-articles">
+            <ul id="articles-container-ul"></ul>
+        </section>
+    </section>
+
+
 
     <footer>
         <div id="footer" class="wrapper">
@@ -41,6 +66,12 @@
 
     </footer>
     <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <!--https://www.jqueryscript.net/table/Easy-Table-List-Pagination-Plugin-With-jQuery-Paginathing.html-->
+    <script
+    type="text/javascript"
+    src="https://cdn.jsdelivr.net/gh/alfrcr/paginathing/dist/paginathing.min.js"
+  ></script>
+
     <script type="text/javascript" src="../assets/js/main.js"></script>
 </body>
 </html>
