@@ -3,6 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
+    console.log("ispravka 3")
     // Setting the theme
     setThemeClass()
 
@@ -1864,7 +1865,7 @@ function displayNavigation(linkArray,id,setId,isSocialMedia,isDocumentation){
             aTag.innerText = linkArray[i].name;
             aTag.setAttribute('target', '_blank');
         }        
-        else if(url=="/index.html" || url=="/"){
+        else if(url=="/Readily/index.html" || url=="/Readily/"){
             //checking the url of the page
 
             // setting prefix for the file location
@@ -1912,7 +1913,7 @@ function ajaxCallBack(file,result){
     let link;
     console.log(url);
     if(url=="/Readily/index.html" || url=="/Readily/"){
-        console.log("ispravka 2")
+        
         link ="assets/data/";
     }else{
         link = "../assets/data/";
