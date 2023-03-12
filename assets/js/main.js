@@ -1911,7 +1911,7 @@ function ajaxCallBack(file,result){
 
     let link;
     if(url=="/index.html" || url=="/"){
-        link ="assets/data/";
+        link ="Readily/assets/data/";
     }else{
         link = "../assets/data/";
     }
