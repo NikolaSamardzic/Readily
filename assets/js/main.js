@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 19")
+    console.log("ispravka 20")
     // Setting the theme
     setThemeClass()
 
@@ -1028,8 +1028,14 @@ function displayBooksImage(id){
     priceTag.innerText = `$${book.price}`;
     
     divPrice.appendChild(priceTag);
-    divPrice.innerHTML += `<i id="book-id-${id}" class="fa-solid fa-cart-shopping"></i>`;
+    let iTag = document.createElement("i");
+    iTag.setAttribute("id",`book-id-${id}`)
+    iTag.classList.add("fa-solid","fa-cart-shopping");
+    divPrice.appendChild(iTag);
 
+    iTag.addEventListener("click",()=>{
+        addToCart(book.id);
+    })
 
     containerDiv.appendChild(containerImgDiv);
     containerDiv.appendChild(divPrice);
