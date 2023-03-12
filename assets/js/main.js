@@ -1910,6 +1910,7 @@ function setItemToLocalStorage(name,value){
 function ajaxCallBack(file,result){
 
     let link;
+    console.log(url);
     if(url=="/index.html" || url=="/"){
         link ="/Readily/assets/data/";
     }else{
