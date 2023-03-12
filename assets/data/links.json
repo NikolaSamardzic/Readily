@@ -2,33 +2,33 @@
     "pages":[
         {
             "name":"Home",
-            "link":"Readily/index.html"
+            "link":"/index.html"
         },
         {
             "name":"Shop",
-            "link":"Readily/shop.html"
+            "link":"/shop.html"
         },
         {
             "name":"Author",
-            "link":"Readily/author.html"
+            "link":"/author.html"
         },
         {
             "name":"Checkout",
-            "link":"Readily/checkout.html"
+            "link":"/checkout.html"
         }
     ],
     "documents":[
         {
             "name":"Documentation",
-            "link":"Readily/documentation.pdf"
+            "link":"/documentation.pdf"
         },
         {
             "name":"RSS",
-            "link":"Readily/rss.xml"
+            "link":"/rss.xml"
         },
         {
             "name":"Sitemap",
-            "link":"Readily/sitemap.xml"
+            "link":"/sitemap.xml"
         }
     ],
     "socialMedia":[

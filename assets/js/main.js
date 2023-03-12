@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 4")
+    console.log("ispravka 5")
     // Setting the theme
     setThemeClass()
 
