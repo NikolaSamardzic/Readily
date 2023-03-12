@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 13")
+    console.log("ispravka 14")
     // Setting the theme
     setThemeClass()
 
@@ -1416,7 +1416,7 @@ function bookArticleGenerator(id,label,image){
     bookImg.classList.add("set-brightness");
 
     if(image){
-        bookImg.src = prefixBookImg + `/assets/images/books/book${id}.jpg`;
+        bookImg.src = prefixBookImg + `assets/images/books/book${id}.jpg`;
     }
     bookImg.alt = book.name;
 
