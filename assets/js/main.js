@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 9")
+    console.log("ispravka 10")
     // Setting the theme
     setThemeClass()
 
@@ -1388,7 +1388,7 @@ function bookArticleGenerator(id,label,image){
     let prefixAuthor;
     if(url == "/Readily/index.html" || url == "/Readily/"){
         prefixAuthor = "pages/"
-        prefixBookImg = "/"
+        prefixBookImg = "Readily"
     }else{
         prefixBookImg = ".."
         prefixAuthor = ""
