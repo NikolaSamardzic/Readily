@@ -1931,6 +1931,9 @@ function ajaxCallBack(file,result){
         url:link,
         method:"get",
         dataType:"json",
-        success:result
+        success:result,
+        error : function(xhr){
+            console.log(xhr);
+        }
     })
 }
