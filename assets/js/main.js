@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 3")
+    console.log("ispravka 4")
     // Setting the theme
     setThemeClass()
 
@@ -1697,7 +1697,7 @@ function displayHeader(result){
 
     // define prefix for url based on current page
     let preUrl = "";
-    if(!(url=="/index.html" || url=="/")){
+    if(!(url=="/Readily/index.html" || url=="/Readily/")){
         preUrl ="../";
     }
 
