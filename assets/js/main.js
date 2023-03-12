@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 18")
+    console.log("ispravka 19")
     // Setting the theme
     setThemeClass()
 
@@ -1307,7 +1307,7 @@ function categoryArticleGenerator(id){
         prefixCategory = "pages/"
         prefixCategoryImg = ""
     }else{
-        prefixCategoryImg = ".."
+        prefixCategoryImg = "../"
         prefixCategory = ""
     }
 
@@ -1325,7 +1325,7 @@ function categoryArticleGenerator(id){
     nameTag.innerText = name;
 
     let imgTag = document.createElement("img");
-    imgTag.src = prefixCategoryImg + `/assets/images/books/book${popularBook.id}.jpg`;
+    imgTag.src = prefixCategoryImg + `assets/images/books/book${popularBook.id}.jpg`;
     imgTag.alt = popularBook.name;
 
     imgTag.classList.add("set-brightness");
