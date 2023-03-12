@@ -1870,7 +1870,7 @@ function displayNavigation(linkArray,id,setId,isSocialMedia,isDocumentation){
 
             // setting prefix for the file location
             if(linkArray[i].name == "Home" || isDocumentation){
-                aTag.href = "/" + linkArray[i].link;
+                aTag.href = "Readily/" + linkArray[i].link;
                 aTag.innerText = linkArray[i].name;
             }else{
                 aTag.href = "pages/" + linkArray[i].link;
