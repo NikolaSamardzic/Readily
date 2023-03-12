@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="mailto:nikola.samardzic.54.21@ict.edu.rs"/>
+    <meta name="keywords" content="Readily, books, online bookstore, fiction, non-fiction, mystery, romance, travel, children's books, self-improvement, business and economics, technology and science, history, cooking"/>
+    <meta name="copyright" content="Readily 2022"/>
+    <meta name="language" content="english"/>
+    <meta name="description" content="The checkout page is the final step of your purchase. Here, you can review your items, provide delivery information, and securely complete your transaction. Make sure all details are correct before submitting your order. Thank you for shopping with us!"/>
+    
+    <!--Favicon-->
+    <link rel="shortcut icon" href="../assets/images/favicon.ico" sizes="16x16" />
+
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+
+    <!--Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    
+    <title>Checkout | Readily</title>
+</head>
+<body>
+    <header >
+
+        <div id="header" class="wrapper">
+            
+        </div>
+
+        <div class="phone-nav" id="phone-nav-id">
+        
+        </div>
+
+    </header>
+
+    <section id="cart-items" class="wrapper">
+        <div id="table-container">
+
+            <table>
+                <thead>
+                    <tr>
+                        <td class="td-image">Image</td>
+                        <td class="td-title">Title</td>
+                        <td class="td-unit-price">Unit Price</td>
+                        <td class="td-quantity">Quantity</td>
+                        <td class="td-price">Price</td>
+                        <td class="td-remove">Remove</td>
+                    </tr>
+                </thead>
+                <tbody>  
+                </tbody>
+            </table>
+
+            <div id="empty">
+                <p>The Cart Is Empty</p>
+            </div>
+        </div>
+
+        <div id="total-price-container">
+            <p id="total-price">Total: $0.00</p>
+        </div>
+    </section>
+
+    <section id="form">
+
+        <form id="delivery-form"  method="post" name="delivery-form" action="form.php">
+            <label for="first-name" class="form-heading">First Name</label>
+            <input id="first-name" type="text">
+            <p class="error-msg" id="first-name-error">Incorrect format (ex. Jhon)</p>
+
+            <label for="last-name" class="form-heading">Last Name</label>
+            <input id="last-name" type="text">
+            <p class="error-msg" id="last-name-error">Incorrect format (ex. Smith)</p>
+
+            <label for="email-input" class="form-heading">Email</label>
+            <input id="email-input" type="email">
+            <p class="error-msg" id="email-error">Incorrect format (ex. jhonsmith@gmail.com)</p>
+
+            <label for="phone-input" class="form-heading">Phone</label>
+            <input id="phone-input" type="text">
+            <p class="error-msg" id="phone-error">Complete phone number</p>
+
+            <label for="address-input" class="form-heading">Address</label>
+            <input id="address-input" type="text">
+            <p class="error-msg" id="address-error">Incorrect format (ex. 123 Main Street)</p>
+
+            <p id="delivery-type" class="form-heading">Type of Delivery</p>
+            <div class="radio-container">
+                <input type="radio" id="standard" value="standard" name="radio-delivery" >
+                <label for="standard">Standard delivery</label>
+            </div>
+            <div class="radio-container">
+                <input type="radio" id="express" value="express" name="radio-delivery">
+                <label for="express">Express delivery</label>
+            </div>
+            <div class="radio-container">
+                <input type="radio" id="next-day" value="next-day" name="radio-delivery">
+                <label for="next-day">Next day delivery</label>
+            </div>
+            <p class="error-msg" id="radio-error">You need to select type of delivery</p>
+
+
+
+            <div class="radio-container" id="agree-radio-container">
+                <input type="checkbox" value="agree" name="terms" id="terms">
+                <label for="terms">Agree to Terms and Conditions</label>
+                <p class="error-msg" id="term-error">Agree to terms to submit</p>
+                <p class="error-msg" id="card-empty-msg">The cart is empty</p>
+            </div>
+
+            <div id="button-container">
+                <button id="form-button">Submit</button>
+            </div>
+
+
+        </form>
+    </section>
+
+    <footer>
+        <div id="footer" class="wrapper">
+
+        </div>
+
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="../assets/js/main.js"></script>
+    
+</body>
+</html>

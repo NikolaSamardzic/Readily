@@ -5,19 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <meta name="author" content="mailto:nikola.samardzic.54.21@ict.edu.rs"/>
+    <meta name="keywords" content="Readily, books, online bookstore, fiction, non-fiction, mystery, romance, travel, children's books, self-improvement, business and economics, technology and science, history, cooking"/>
+    <meta name="copyright" content="Readily 2022"/>
+    <meta name="language" content="english"/>
+
+    <meta name="description" content="Welcome to our online bookstore! Browse through our extensive collection of books across a wide range of genres and topics. From bestsellers to hidden gems, you're sure to find something that sparks your interest. Each book is carefully curated to provide you with the best reading experience possible. Take your time and explore our shelves - who knows what exciting new read you might discover!"/>
+
     <!--Favicon-->
-    <link rel="shortcut icon" href="../assets/images/favicon.ico" sizes="16x16">
+    <link rel="shortcut icon" href="../assets/images/favicon.ico" sizes="16x16" />
     
     <!--Fonts-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700&display=swap" rel="stylesheet" />
 
     <!--Icons-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css" />
     <title>Shop | Readily</title>
 </head>
 <body>
@@ -33,13 +40,17 @@
 
     </header>
 
-    <section id="section-container">
+    <section id="section-container" class="wrapper">
         <section id="filter-sort-section">
-            <input type="text" placeholder="search">
+            <div id="input-search-container">
+                <input type="text" placeholder="Search" id="input-search">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+
             <h3 id="heading-price">Price</h3>
             <div id="price-container">
-                <input type="number" id="price-min">
-                <input type="number" id="price-max">
+                <input type="number" min="0" placeholder="Min" id="price-min">
+                <input type="number" min="0" placeholder="Max" id="price-max">
             </div>
 
             <h3 id="heading-categories">Categories</h3>
@@ -47,7 +58,7 @@
 
             </div>
             
-            <h3>Sort</h3>
+            <h3 id="heading-sort">Sort</h3>
             <select name="sort" id="sort"></select>
 
         </section>

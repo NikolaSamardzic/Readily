@@ -11,6 +11,10 @@
         {
             "name":"Author",
             "link":"author.html"
+        },
+        {
+            "name":"Checkout",
+            "link":"checkout.html"
         }
     ],
     "documents":[

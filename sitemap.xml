@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    	  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+     	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    	  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+	<url>
+		<loc>https://nikolasamardzic.github.io/Readily/index.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>https://nikolasamardzic.github.io/Readily/pages/shop.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.95</priority>
+	</url>
+
+	<url>
+		<loc>https://nikolasamardzic.github.io/Readily/pages/book.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.92</priority>
+	</url>
+
+		<url>
+		<loc>https://nikolasamardzic.github.io/Readily/pages/author.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.91</priority>
+	</url>
+
+    <url>
+		<loc>https://nikolasamardzic.github.io/Readily/pages/checkout.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.91</priority>
+	</url>
+
+    <url>
+		<loc>https://nikolasamardzic.github.io/Readily/pages/writer.html</loc>
+		<lastmod>2022-1-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.91</priority>
+	</url>
+
+
+</urlset>

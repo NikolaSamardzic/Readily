@@ -1,26 +1,26 @@
 [
     {
         "name":"Most Popular",
-        "vale":"popular"
+        "value":"popular"
     },
     {
         "name":"Newest",
-        "vale":"newest"
+        "value":"newest"
     },
     {
         "name":"Price Asc",
-        "vale":"price-asc"
+        "value":"price-asc"
     },
     {
         "name":"Price Desc",
-        "vale":"price-desc"
+        "value":"price-desc"
     },
     {
         "name":"Name A-Z",
-        "vale":"name-asc"
+        "value":"name-asc"
     },
     {
         "name":"Name Z-A",
-        "vale":"name-desc"
+        "value":"name-desc"
     }
 ]

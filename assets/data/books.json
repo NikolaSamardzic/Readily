@@ -2120,7 +2120,7 @@
     },
     {
         "id":75,        
-        "name":"Ultimate Veg: Easy & Delicious Meals for Everyone",
+        "name":"Ultimate Veg",
         "idAuthor":8,
         "price":21.23,
         "publisherId":8,
@@ -2151,7 +2151,7 @@
     },
     {
         "id":76,        
-        "name":"Hackers: Heroes of the Computer Revolution",
+        "name":"Hackers",
         "idAuthor":9,
         "price":35.21,
         "publisherId":9,
@@ -2178,7 +2178,7 @@
     },
     {
         "id":77,        
-        "name":"In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+        "name":"In the Plex",
         "idAuthor":9,
         "price":53.32,
         "publisherId":9,
@@ -2209,7 +2209,7 @@
     },
     {
         "id":78,        
-        "name":"Crypto: How the Code Rebels Beat the Government--Saving Privacy in the Digital Age",
+        "name":"Crypto",
         "idAuthor":9,
         "price":32.11,
         "publisherId":9,
