@@ -1388,7 +1388,7 @@ function bookArticleGenerator(id,label,image){
     let prefixAuthor;
     if(url == "/Readily/index.html" || url == "/Readily/"){
         prefixAuthor = "pages/"
-        prefixBookImg = "/"
+        prefixBookImg = ""
     }else{
         prefixBookImg = ".."
         prefixAuthor = ""

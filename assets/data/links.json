@@ -2,7 +2,7 @@
     "pages":[
         {
             "name":"Home",
-            "link":"/index.html"
+            "link":"index.html"
         },
         {
             "name":"Shop",
