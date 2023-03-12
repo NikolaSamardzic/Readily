@@ -7,42 +7,42 @@
 
 	<url>
 		<loc>https://nikolasamardzic.github.io/Readily/index.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1</priority>
 	</url>
 
 	<url>
 		<loc>https://nikolasamardzic.github.io/Readily/pages/shop.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.95</priority>
 	</url>
 
 	<url>
 		<loc>https://nikolasamardzic.github.io/Readily/pages/book.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.92</priority>
 	</url>
 
 		<url>
 		<loc>https://nikolasamardzic.github.io/Readily/pages/author.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.91</priority>
 	</url>
 
     <url>
 		<loc>https://nikolasamardzic.github.io/Readily/pages/checkout.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.91</priority>
 	</url>
 
     <url>
 		<loc>https://nikolasamardzic.github.io/Readily/pages/writer.html</loc>
-		<lastmod>2022-1-25</lastmod>
+		<lastmod>2022-3-12</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.91</priority>
 	</url>
