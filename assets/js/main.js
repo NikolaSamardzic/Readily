@@ -3,7 +3,7 @@ var prefersDarkScheme
 
 window.onload = function(){
 
-    console.log("ispravka 6")
+    console.log("ispravka 7")
     // Setting the theme
     setThemeClass()
 
@@ -15,7 +15,7 @@ window.onload = function(){
         displayFooter(result);
     })
 
-    if(url == "/index.html" || url == "/"){
+    if(url == "/Readily/index.html" || url == "/Readily/"){
 
         // Loading all necessary data for this page
         ajaxCallBack("books.json",function(books){
@@ -1303,7 +1303,7 @@ function categoryArticleGenerator(id){
 
     let prefixCategoryImg;
     let prefixCategory;
-    if(url == "/index.html" || url == "/"){
+    if(url == "/Readily/index.html" || url == "/Readily/"){
         prefixCategory = "pages/"
         prefixCategoryImg = ""
     }else{
@@ -1386,7 +1386,7 @@ function bookArticleGenerator(id,label,image){
 
     let prefixBookImg;
     let prefixAuthor;
-    if(url == "/index.html" || url == "/"){
+    if(url == "/Readily/index.html" || url == "/Readily/"){
         prefixAuthor = "pages/"
         prefixBookImg = ""
     }else{
@@ -1729,7 +1729,7 @@ function displayHeader(result){
     ajaxCallBack("icons.json",(result)=>{
 
         let preUrl = "";
-        if(!(url=="/index.html" || url=="/")){
+        if(!(url=="/Readily/index.html" || url=="/Readily/")){
             preUrl ="pages/";
         }
 
