@@ -1660,4 +1660,14 @@ footer {
 }
 #author-section img {
   width: 100%;
+}
+
+#eror-msg-container {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  width: 300px;
+  background-color: rgba(255, 17, 17, 0.419);
+  color: var(--text-color-heading);
+  display: none;
 }/*# sourceMappingURL=style.css.map */

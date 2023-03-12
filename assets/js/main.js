@@ -1932,8 +1932,30 @@ function ajaxCallBack(file,result){
         method:"get",
         dataType:"json",
         success:result,
-        error : function(xhr){
-            console.log(xhr);
+        error: function(xhr, exception){
+
+            var textMessage ="";
+            if (xhr.status === 0) {
+                textMessage = "Sorry, we encountered an error while trying to establish a connection. Please check your internet connection and try again."
+            } else if (xhr.status == 404) {
+                textMessage = "Bad request. Please check your input and try again. Make sure all required fields are filled out correctly and all parameters are properly formatted."
+            } else if (xhr.status == 500) {
+                textMessage = "Internal server error. We apologize for the inconvenience. Our technical team has been notified of the issue and is working to resolve it as soon as possible. Please try again later."
+            } else if (exception === 'parsererror') {
+                textMessage = "Parse error. Sorry, we could not process your request due to an error in parsing the input data. Please check that the data you provided is in the correct format and try again."
+            } else if (exception === 'timeout') {
+                textMessage = "Request timeout. Sorry, we could not process your request in time. Please check your internet connection and try again. If the problem persists, please contact our technical support team."
+            } else if (exception === 'abort') {
+                textMessage = "Unexpected error. We apologize for the inconvenience, but we encountered an unexpected error and had to abort the process. Our technical team has been notified of the issue and is working to resolve it as soon as possible. Please try again later."
+            } else {
+                textMessage = "Oops! Something went wrong. We apologize for the inconvenience. Our technical team has been notified of the issue and is working to resolve it as soon as possible. Please try again later."
+            }
+
+            let msgContainer = document.getElementById("eror-msg-container");
+            let msgText = document.getElementById("error-msg-text");
+
+            msgContainer.style.display = "block"
+            msgText.innerText = textMessage;
         }
     })
 }
