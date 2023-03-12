@@ -1913,7 +1913,7 @@ function ajaxCallBack(file,result){
     console.log(url);
     if(url=="/Readily/index.html" || url=="/Readily/"){
         console.log("ispravka 1")
-        link ="Readily/assets/data/";
+        link ="assets/data/";
     }else{
         link = "../assets/data/";
     }
