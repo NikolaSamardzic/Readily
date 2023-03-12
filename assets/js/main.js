@@ -1912,6 +1912,7 @@ function ajaxCallBack(file,result){
     let link;
     console.log(url);
     if(url=="Readily/index.html" || url=="Readily/"){
+
         link ="Readily/assets/data/";
     }else{
         link = "../assets/data/";
@@ -1919,10 +1920,10 @@ function ajaxCallBack(file,result){
 
     link += file;
 
-    // $.ajax({
-    //     url:link,
-    //     method:"get",
-    //     dataType:"json",
-    //     success:result
-    // })
+    $.ajax({
+        url:link,
+        method:"get",
+        dataType:"json",
+        success:result
+    })
 }
