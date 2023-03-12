@@ -1919,10 +1919,10 @@ function ajaxCallBack(file,result){
 
     link += file;
 
-    $.ajax({
-        url:link,
-        method:"get",
-        dataType:"json",
-        success:result
-    })
+    // $.ajax({
+    //     url:link,
+    //     method:"get",
+    //     dataType:"json",
+    //     success:result
+    // })
 }
