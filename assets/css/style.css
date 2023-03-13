@@ -1037,11 +1037,6 @@ footer {
 #book-info #container-div-image-and-price img {
   height: 400px;
 }
-@media (max-width: 576px) {
-  #book-info #container-div-image-and-price img {
-    width: 300px;
-  }
-}
 #book-info #text-container-about {
   grid-area: about-book;
   margin-bottom: 3rem;
