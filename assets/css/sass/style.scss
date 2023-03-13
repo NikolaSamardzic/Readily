@@ -1203,9 +1203,9 @@ footer{
         img{
             height: 400px;
 
-            @include sm{
-                width: 300px;
-            }
+            // @include sm{
+            //     width: 300px;
+            // }
         }
     }
 
